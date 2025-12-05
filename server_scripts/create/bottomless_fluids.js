@@ -1,7 +1,6 @@
 ServerEvents.tags('fluid', event => {
     const fluids = [
       'spelunkery:portal_fluid',
-      'spelunkery:spring_water',
       'create:honey',
       'create:chocolate'
     ];
