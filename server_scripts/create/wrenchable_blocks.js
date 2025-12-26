@@ -5,6 +5,7 @@ ServerEvents.tags('block', event => {
     event.add(wrenchable, '@toms_storage');
     event.add(wrenchable, '@storagedrawers');
     event.add(wrenchable, '@wirelessredstone');
+    event.add(wrenchable, '@ironchests');
     
     //by list of tag
     
